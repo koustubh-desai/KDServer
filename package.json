@@ -1,0 +1,25 @@
+{
+  "name": "kdserver",
+  "version": "1.0.0",
+  "description": "A lightweight server for CRUD and REST applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koustubh-desai/KDServer.git"
+  },
+  "keywords": [
+    "Angular4",
+    "Nodejs",
+    "liteserver",
+    "TDD"
+  ],
+  "author": "Koustubh Desai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/koustubh-desai/KDServer/issues"
+  },
+  "homepage": "https://github.com/koustubh-desai/KDServer#readme"
+}
